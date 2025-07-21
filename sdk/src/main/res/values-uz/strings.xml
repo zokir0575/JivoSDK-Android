@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Operatorning standart nomi, agar ma'lumot yuklanmagan bo'lsa -->
+    <string name="agent_name_default">Operator</string>
+    <!-- Mijoz xabarlari uchun yozuv -->
+    <string name="agent_name_you">Men</string>
+    <string name="Agent.DisplayName.Deleted">O'chirilgan operator</string>
+    <string name="Camera.Access.Description">Ilova kamerangizdan foydalanishi uchun ruxsat kerak</string>
+    <!-- Odatda iOS qurilmasi "Restricted" kamera holatini qaytarmaydi. Lekin test uchun bu xabar qo'shildi. -->
+    <string name="Camera.Access.Restricted">Kamera kirishi rad etildi</string>
+    <string name="Camera.Access.Suggestion">Rasmga olish va ulashish uchun ushbu ruxsat kerak</string>
+    <!-- Ushbu xabar kamera ishlamasa yoki iOS simulyatorida rasmga olishga uringanda ko'rsatiladi. -->
+    <string name="Camera.Access.Unavailable">Kamera mavjud emas</string>
+    <string name="chat_input.status.contact_info">Yuqoridagi kontakt formasini to'ldiring</string>
+    <!-- Chat oynasining standart sarlavhasi -->
+    <string name="chat_subtitle_placeholder">Biz bilan 24/7 bog'lanishingiz mumkin!</string>
+    <!-- Chatda server bilan aloqa uzilgani haqida tizim xabari. -->
+    <string name="chat_system_disconnected">Tarmoq xatolik kodi: %d , xabar: %s</string>
+    <!-- Bir nechta operator yozayotganini bildiruvchi tizim xabari. -->
+    <string name="chat_system_few_agents_typing">%s, %s va yana %d kishi yozmoqda...</string>
+    <!-- Bitta operator yozayotganini bildiruvchi tizim xabari. -->
+    <string name="chat_system_one_agent_typing">%s yozmoqda...</string>
+    <!-- Ikki operator yozayotganini bildiruvchi tizim xabari. -->
+    <string name="chat_system_two_agents_typing">%s va %s yozmoqda...</string>
+    <!-- Chat oynasining asosiy sarlavhasi -->
+    <string name="chat_title_placeholder">Muammoni xabar qiling</string>
+    <string name="chat.state_unavailable.discription">Jonli chat hozirda vaqtincha mavjud emas. Iltimos, keyinroq urinib ko'ring.</string>
+    <string name="chat.state_unavailable.title">Chat vaqtincha mavjud emas</string>
+    <string name="chat.system.contact_form.introduce_in_chat">Siz bilan yaqindan tanishsak bo'ladimi?</string>
+    <string name="chat.system.contact_form.must_fill">Xabar yuborish uchun kontakt ma'lumotlaringizni kiriting</string>
+    <string name="chat.system.contact_form.status_sent">Xabaringiz operatorlarimizga yuboriladi. Tez orada siz bilan bog'lanamiz.</string>
+    <string name="Chat.System.Media.Preparing">Fayl tayyorlanmoqda...</string>
+    <string name="Chat.System.Media.Uploading">Fayl yuborilmoqda...</string>
+    <string name="Chat.System.NewMessages">Yangi xabarlar</string>
+    <string name="Client.Title">Mehmon #%d</string>
+    <!-- "Bekor qilish" umumiy satri -->
+    <string name="common_cancel">Bekor qilish</string>
+    <string name="common_close">Yopish</string>
+    <string name="common_done">Tayyor</string>
+    <string name="common_understand">Tushunarli!</string>
+    <!-- Noma'lum xatolik haqida umumiy xabar. -->
+    <string name="common_unknown_error">Noma'lum xatolik</string>
+    <string name="Common.Open">Ochiq</string>
+    <string name="common.send">Yuborish</string>
+    <string name="Common.Settings">Sozlamalar</string>
+    <!-- Xizmatga ulanish holati -->
+    <string name="connection_state_connecting">Ulanmoqda...</string>
+    <!-- Ulanish yo'q holati -->
+    <string name="connection_state_disconnected">Ulanib bo'lmadi, %d soniyadan so'ng qayta urinib ko'ring</string>
+    <!-- Xizmatga qayta ulanish tugmasi -->
+    <string name="connection_state_retry">Hozir qayta urinib ko'ring</string>
+    <string name="contact_form.email.placeholder">Email manzilingiz</string>
+    <string name="contact_form.name.placeholder">Ismingiz</string>
+    <string name="contact_form.phone.placeholder">Telefon raqamingiz</string>
+    <string name="contact_form.status.sent">Rahmat!</string>
+    <!-- Yuklash holati - xatolik -->
+    <string name="download_status_error">Xatolik</string>
+    <!-- Yuklash holati - yuklanmoqda -->
+    <string name="download_status_loading">Yuklanmoqda...</string>
+    <!-- Fayl yuklab bo'lmasligi, havola eskirgan -->
+    <string name="file_download_expired">Havola eskirgan</string>
+    <!-- Fayl yuklab bo'lmasligi haqida xabar -->
+    <string name="file_download_unavailable">Fayl mavjud emas</string>
+    <!-- Fayl havolasini tekshirish -->
+    <string name="file_link_checking">Tekshirilmoqda ...</string>
+    <!-- Standart fayl nomi -->
+    <string name="file_name_unknown">Nomsiz fayl</string>
+    <string name="file_transfer_disabled">Fayl uzatish o'chirilgan</string>
+    <!-- Fayl hajmi baytlarda -->
+    <string name="format_file_size_b">%.0f B</string>
+    <!-- Fayl hajmi kilobaytlarda -->
+    <string name="format_file_size_kb">%.0f KB</string>
+    <!-- Fayl hajmi megabaytlarda -->
+    <string name="format_file_size_mb">%.2f MB</string>
+    <!-- Xabar kiritish oynasida ko'rsatiladigan yozuv -->
+    <string name="input_message_placeholder">Xabaringizni kiriting...</string>
+    <string name="jivo_business_messenger">Jonli Yordam Xizmati</string>
+    <!-- Hujjat turini tanlash tugmasi -->
+    <string name="media_upload_attachment_type_selecting_document">Hujjat</string>
+    <!-- Rasm turini tanlash tugmasi -->
+    <string name="media_upload_attachment_type_selecting_photo">Rasm</string>
+    <!-- Qaysi turdagi fayl biriktirilishini so'rash sarlavhasi -->
+    <string name="media_upload_select_an_attachment_type_title">Nimani biriktirmoqchisiz?</string>
+    <!-- Fayl serverga yuklanayotganini bildiruvchi tizim xabari -->
+    <string name="media_upload_sending_the_file">Fayl yuborilmoqda</string>
+    <string name="media_uploading_common_error">Fayl yuklanmadi</string>
+    <!-- Faylni yuklashga tayyorlashda xatolik -->
+    <string name="media_uploading_extraction_error">Fayl tayyorlanmadi</string>
+    <!-- Yuklanayotgan fayl hajmi limiti oshib ketgan -->
+    <string name="media_uploading_too_large">Fayl hajmi limiti %dMB</string>
+    <string name="Media.Access.Missing">Iltimos, ruxsat bering</string>
+    <string name="Media.Access.Suggestion">Galereyangizdan rasm yoki video yuborish uchun JivoChat'ga ruxsat kerak.
+
+Iltimos, [Sozlamalar > Ilova > Rasmlar] orqali ruxsat bering.</string>
+    <string name="Media.Picker.Camera">Kamera</string>
+    <!-- "Havolani nusxalash" menyu bandi -->
+    <string name="menu_action_copy">Havolani nusxalash</string>
+    <!-- "Yuklab olish" menyu bandi -->
+    <string name="menu_action_download">Yuklab olish</string>
+    <string name="Menu.Action.File">Fayl</string>
+    <!-- Biriktirilgan faylni yuklab olish tugmasi -->
+    <string name="message_download">Yuklab olish</string>
+    <!-- Operator chatga qo'shilgani haqida tizim xabari -->
+    <string name="message_system_operator_accepted">Operator chatga qo'shildi</string>
+    <!-- Qo'llab-quvvatlanmaydigan fayl turi -->
+    <string name="message_unsupported_media">Bu fayl turi qo'llab-quvvatlanmaydi</string>
+    <string name="Message.Deleted">Xabar o'chirildi</string>
+    <string name="Message.Edited">(tahrirlangan)</string>
+    <string name="Message.Preview.Line">Chat ikkinchi liniyaga o'tkazildi</string>
+    <string name="Message.Sender.You">Men</string>
+    <string name="messages.label.bot">bot</string>
+    <string name="notification_channel_message_description">Jivo SDK'dan xabar</string>
+    <string name="notification_channel_message_name">Jivo</string>
+    <!-- Matnli xabar formati, $1 - operator nomi, $2 - xabar matni -->
+    <string name="notification_message_text_format">%1$s: %2$s</string>
+    <string name="notification_message_title">Yordam</string>
+    <string name="offline_message_placeholder">Ko'rinishidan operatorlarimiz hozirda band. Xabaringizni shu yerga qoldiring, tez orada siz bilan bog'lanamiz.</string>
+    <!-- Xabar kontekst menyusida "Nusxalash" bandi -->
+    <string name="options_copy">Nusxalash</string>
+    <string name="options_delete">O'chirish</string>
+    <!-- Xabar kontekst menyusida "Qayta yuborish" bandi -->
+    <string name="options_resend">Qayta yuborish</string>
+    <!--
+  Odatda bu xabar ko'rsatilmasligi kerak, lekin test uchun SDKga qo'shilgan.
+  Agar xatolik bo'lsa, rasm kutubxonasiga kirishda ko'rsatiladi.
+  -->
+    <string name="PhotoLibrary.Access.NoAvailableImages">Mavjud rasm yo'q</string>
+    <!-- Odatda bu xabar ko'rsatilmasligi kerak, lekin test uchun SDKga qo'shilgan -->
+    <string name="PhotoLibrary.Access.Unavailable">Rasm kutubxonasi mavjud emas</string>
+    <string name="rate_form.comment_title">Fikringiz</string>
+    <string name="rate_form.description">Operator javoblaridan qanchalik mamnunsiz?</string>
+    <string name="rate_form.finish_description_bad">Eng yaxshi xizmatni ko'rsatishga harakat qilamiz. Ko'rinishidan, hali ishlashimiz kerak bo'lgan jihatlar bor.</string>
+    <string name="rate_form.finish_description_good">Yoqganidan xursandmiz</string>
+    <string name="rate_form.finish_title">Fikringiz uchun rahmat</string>
+    <string name="rate_form.send">Yuborish</string>
+    <string name="rate_form.title">Fikr qoldiring</string>
+    <string name="status_missing_connection">Aloqa yo'q</string>
+    <string name="suggest_check_internet_access">Iltimos, internet aloqangizni tekshiring</string>
+    <string name="toast_copied_to_clipboard">Nusxalandi</string>
+    <!-- Qo'llab-quvvatlanmaydigan xabar turi uchun tavsif -->
+    <string name="unsupported_message_description">Ilova versiyasi eskirgan. Xabar tafsilotlari: %s</string>
+    <!-- postfix -->
+    <string name="unsupported_message_postfix">ko'proq ko'rsat \u0020</string>
+    <!-- Qo'llab-quvvatlanmaydigan xabar turi uchun sarlavha  -->
+    <string name="unsupported_message_title">Qo'llab-quvvatlanmaydigan xabar turi</string>
+    <!-- Bo'sh chat uchun salomlashuv xabari -->
+    <string name="welcome_message_placeholder">Yordam jamoamizga yozing va uchragan xatoliklarni bizga bildiring</string>
+    <string name="JV_SpecialMenu_Popup_ExportJournal">Texnik jurnal</string>
+</resources>
